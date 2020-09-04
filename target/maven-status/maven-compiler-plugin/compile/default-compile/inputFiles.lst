@@ -1,0 +1,12 @@
+C:\workspacegithub4\registration-login-springboot-security-thymeleaf\src\main\java\br\com\isaccanedo\springboot\springsecurity\model\User.java
+C:\workspacegithub4\registration-login-springboot-security-thymeleaf\src\main\java\br\com\isaccanedo\springboot\springsecurity\service\UserServiceImpl.java
+C:\workspacegithub4\registration-login-springboot-security-thymeleaf\src\main\java\br\com\isaccanedo\springboot\springsecurity\Application.java
+C:\workspacegithub4\registration-login-springboot-security-thymeleaf\src\main\java\br\com\isaccanedo\springboot\springsecurity\model\Role.java
+C:\workspacegithub4\registration-login-springboot-security-thymeleaf\src\main\java\br\com\isaccanedo\springboot\springsecurity\repository\UserRepository.java
+C:\workspacegithub4\registration-login-springboot-security-thymeleaf\src\main\java\br\com\isaccanedo\springboot\springsecurity\constraint\FieldMatchValidator.java
+C:\workspacegithub4\registration-login-springboot-security-thymeleaf\src\main\java\br\com\isaccanedo\springboot\springsecurity\service\UserService.java
+C:\workspacegithub4\registration-login-springboot-security-thymeleaf\src\main\java\br\com\isaccanedo\springboot\springsecurity\web\dto\UserRegistrationDto.java
+C:\workspacegithub4\registration-login-springboot-security-thymeleaf\src\main\java\br\com\isaccanedo\springboot\springsecurity\config\SecurityConfiguration.java
+C:\workspacegithub4\registration-login-springboot-security-thymeleaf\src\main\java\br\com\isaccanedo\springboot\springsecurity\constraint\FieldMatch.java
+C:\workspacegithub4\registration-login-springboot-security-thymeleaf\src\main\java\br\com\isaccanedo\springboot\springsecurity\web\UserRegistrationController.java
+C:\workspacegithub4\registration-login-springboot-security-thymeleaf\src\main\java\br\com\isaccanedo\springboot\springsecurity\web\MainController.java

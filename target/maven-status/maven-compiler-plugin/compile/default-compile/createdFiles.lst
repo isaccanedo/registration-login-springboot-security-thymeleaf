@@ -1,0 +1,13 @@
+br\com\isaccanedo\springboot\springsecurity\constraint\FieldMatch$List.class
+br\com\isaccanedo\springboot\springsecurity\model\User.class
+br\com\isaccanedo\springboot\springsecurity\web\dto\UserRegistrationDto.class
+br\com\isaccanedo\springboot\springsecurity\config\SecurityConfiguration.class
+br\com\isaccanedo\springboot\springsecurity\service\UserServiceImpl.class
+br\com\isaccanedo\springboot\springsecurity\Application.class
+br\com\isaccanedo\springboot\springsecurity\constraint\FieldMatchValidator.class
+br\com\isaccanedo\springboot\springsecurity\web\MainController.class
+br\com\isaccanedo\springboot\springsecurity\constraint\FieldMatch.class
+br\com\isaccanedo\springboot\springsecurity\model\Role.class
+br\com\isaccanedo\springboot\springsecurity\repository\UserRepository.class
+br\com\isaccanedo\springboot\springsecurity\service\UserService.class
+br\com\isaccanedo\springboot\springsecurity\web\UserRegistrationController.class
